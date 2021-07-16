@@ -1,27 +1,14 @@
-# Minimal Mistakes remote theme starter
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+### 莱斯特少尉巡航中
 
-Contains basic configuration to get you a site with:
+>瓦肯人的Stark家族，最后一次有史料记载的出现，在中古时代末期。那场与霸星人的世纪决战中，人与狼的后裔、最后的瓦肯人、北境守护者、英格兰公爵、罗马共和国缔造者英勇无畏的Stark家族，全军覆没。  
+>
+>    
+>Tony Stark（瓦肯人最后一任族长），本可安全返航，但听到族人全部战死的噩耗后，不愿独活，飞出船舱，在离舰队一光时的距离引爆身上的合金装甲，爆炸的火光如瓦肯人荣耀的一生一般，照亮了整个半人马星系。  
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+本纪念碑文于仙女纪元半人马标准时间三万九千一百二十三年十七月三十八日，由莱斯特少尉巡航时发现。
 
----
+如有紧急军情，请发电邮：unsplashking.outlook.com, 暗号：王不飘
 
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+祝君，武运昌隆
