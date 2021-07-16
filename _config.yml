@@ -67,7 +67,6 @@ author:
            <br />
            It is a truth universally acknowledged, that a single man
            in possession of some incredible ideas, must be in want of a BLOG."
-  location: false
   links:
     - label: "Douban"
       icon: "fas fa-fw fa-link"
@@ -75,6 +74,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/eianzhang/"
+  location: “不在服务区”
 
 footer:
   links:
