@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Eian Zhang | A BLOG
+title: Eian Zhang
+subtitle: Just BLOG
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   It is a truth universally acknowledged, that a single man
@@ -47,7 +48,7 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-logo: "/assets/images/images.png"
+og_image: /assets/images/imgaes.png
 
 # Plugins (previously gems:)
 plugins:
@@ -66,31 +67,20 @@ author:
            <br />
            It is a truth universally acknowledged, that a single man
            in possession of some incredible ideas, must be in want of a BLOG."
+  location: false
   links:
     - label: "Douban"
       icon: "fas fa-fw fa-link"
       url: "https://www.douban.com/people/leo_chang/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/eianzhang/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/eianzhang"
 
 defaults:
   # _posts
@@ -99,7 +89,8 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true      
+      author_profile: true
+      read_time: false
       comments: true
       share: true
       related: true
