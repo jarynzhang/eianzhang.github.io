@@ -74,7 +74,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/eianzhang/"
-  location: “不在服务区”
+  location: "N/A"
 
 footer:
   links:
@@ -103,9 +103,9 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
+category_archive:
+  type: liquid
+  path: /categories/
