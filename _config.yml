@@ -67,9 +67,10 @@ author:
            <br />
            It is a truth universally acknowledged, that a single man
            in possession of some incredible ideas, must be in want of a BLOG."
+  email: "eianzhang@outlook.com"
   links:
     - label: "One link of a bean sauce"
-      icon: "fas fa-fw fa-external-link-sqaure-alt"
+      icon: "fas fa-fw fa-external-link-square-alt"
       url: "https://www.douban.com/people/leo_chang/"
     - lable: "Twitter"
       icon: "fab fa-fw fa-twitter-sqaure"
@@ -81,7 +82,6 @@ author:
       icon: "fab fa-fw fa-reddit-square"
       url: "https://www.reddit.com/user/eianzhang"
   location: "N/A"
-  email: "eianzhang@outlook.com"
 
 footer:
   links:
