@@ -83,7 +83,7 @@ author:
 footer:
   links:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-github-square"
       url: "https://github.com/eianzhang"
 
 defaults:
@@ -115,7 +115,7 @@ tag_archive:
   path: /tags/
 
 analytics:
-  provider: "google"
+  provider: "google-universal"
   google:
-    tracking_id: "G-YKCP2GGE0G"
+    tracking_id: "UA-202573609-1"
     anonymize_ip: false # default
