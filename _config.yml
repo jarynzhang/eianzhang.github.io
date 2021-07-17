@@ -123,6 +123,6 @@ analytics:
     tracking_id: "UA-202573609-1"
     anonymize_ip: false # default
 
-{% if jekyll.environment == "development" %}
-   {% include JEKYLL_ENV=production jekyll build %}
+{% if jekyll.environment == "production" %}
+    // Production environment.
 {% endif %}
