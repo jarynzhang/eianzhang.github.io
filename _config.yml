@@ -68,13 +68,19 @@ author:
            It is a truth universally acknowledged, that a single man
            in possession of some incredible ideas, must be in want of a BLOG."
   links:
-    - label: "One link of unknown origin"
-      icon: "fas fa-fw fa-link"
+    location: "N/A"
+    - label: "One link of a bean sauce"
+      icon: "fas fa-fw fa-external-link-sqaure-alt"
       url: "https://www.douban.com/people/leo_chang/"
+    - lable: "Twitter"
+      icon: "fab fa-fw fa-twitter-sqaure"
+      url: "https://twitter.com/eianzhang"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/eianzhang/"
-  location: "N/A"
+    - label: "Reddit"
+      icon: "fab fa-fw fa-reddit-square"
+      url: "https://www.reddit.com/user/eianzhang"
 
 footer:
   links:
