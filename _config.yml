@@ -96,9 +96,6 @@ defaults:
       author_profile: true
       read_time: false
       comments: true
-        provider: "disqus"
-        disqus:
-          shortname: "eianzhang"
       share: true
       related: true
       show_date: true
