@@ -73,7 +73,7 @@ author:
       icon: "fas fa-fw fa-external-link-square-alt"
       url: "https://www.douban.com/people/leo_chang/"
     - lable: "Twitter"
-      icon: "fab fa-fw fa-twitter-sqaure"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/eianzhang"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
