@@ -67,7 +67,7 @@ author:
   email: "eianzhang@outlook.com"
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "/assets/images/twitter-square-brands.svg"
       url: "https://twitter.com/eianzhang"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram-square"
