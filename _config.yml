@@ -69,10 +69,7 @@ author:
            in possession of some incredible ideas, must be in want of a BLOG."
   email: "eianzhang@outlook.com"
   links:
-    - label: "One link of a bean sauce"
-      icon: "fas fa-fw fa-external-link-square-alt"
-      url: "https://www.douban.com/people/leo_chang/"
-    - lable: "Twitter"
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/eianzhang"
     - label: "Instagram"
@@ -81,6 +78,9 @@ author:
     - label: "Reddit"
       icon: "fab fa-fw fa-reddit-square"
       url: "https://www.reddit.com/user/eianzhang"
+    - label: "One link of a bean sauce"
+      icon: "fas fa-fw fa-external-link-square-alt"
+      url: "https://www.douban.com/people/leo_chang/"
   location: "N/A"
 
 footer:
