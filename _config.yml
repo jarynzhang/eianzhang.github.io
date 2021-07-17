@@ -75,10 +75,10 @@ author:
     - label: "Reddit"
       icon: "fab fa-fw fa-reddit-square"
       url: "https://www.reddit.com/user/eianzhang"
-    - label: "One link of a bean sauce"
+    - label: "A bean sauce"
       icon: "fas fa-fw fa-external-link-square-alt"
       url: "https://www.douban.com/people/leo_chang/"
-  location: "N/A"
+  location: "Somewhere on Earth"
 
 footer:
   links:
