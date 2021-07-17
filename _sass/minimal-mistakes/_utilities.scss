@@ -1,6 +1,13 @@
+/* social icons*/
 
 .social-icons {
+  .fas,
+  .fab,
+  .far,
+  .fal {
+    color: $text-color;
+  }
+
   .fa-twitter-square {
     color: #6E7173;
   }
-}
