@@ -70,7 +70,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/eianzhang"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-instagram-square"
       url: "https://instagram.com/eianzhang/"
     - label: "Reddit"
       icon: "fab fa-fw fa-reddit-square"
@@ -79,7 +79,7 @@ author:
       icon: "fas fa-fw fa-external-link-square-alt"
       url: "https://www.douban.com/people/leo_chang/"
   location: "Somewhere on Earth"
-  icon: "fas fa-fw fa-map-marked-alt"
+    icon: "fas fa-fw fa-map-marked-alt"
 
 footer:
   links:
