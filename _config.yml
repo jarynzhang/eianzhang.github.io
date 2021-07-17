@@ -119,5 +119,3 @@ analytics:
   google:
     tracking_id: "UA-202573609-1"
     anonymize_ip: false # default
-
-JEKYLL_ENV=production
