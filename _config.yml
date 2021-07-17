@@ -62,10 +62,7 @@ plugins:
 author:
   name   : "张宸锐"
   avatar : "/assets/images/mistme.png"
-  bio    : "你好  Hello  Sulut  Hallo<br />
-           こんにちは  안녕하세요<br />
-           <br />
-           It is a truth universally acknowledged, that a single man
+  bio    : "It is a truth universally acknowledged, that a single man
            in possession of some incredible ideas, must be in want of a BLOG."
   email: "eianzhang@outlook.com"
   links:
