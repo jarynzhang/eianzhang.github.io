@@ -47,7 +47,7 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-og_image: /assets/images/summarycard.png
+og_image: /assets/images/siteiconlogo.png
 
 # Plugins (previously gems:)
 plugins:
