@@ -17,7 +17,7 @@ title: Eian Zhang
 subtitle: Just blog
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  eianzhang's blog,张慢慢的博客，张慢慢，unsplashking，王不飘
+  eianzhang's blog, eianzhang, 张慢慢的博客，张慢慢，unsplashking，王不飘
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -118,3 +118,14 @@ analytics:
   google:
     tracking_id: "UA-202573609-1"
     anonymize_ip: false # default
+social:
+  type: Person
+  links:
+    - "https://twitter.com/eianzhang"
+    - "https://www.instagram.com/eianzhang/"
+    - "https://www.reddit.com/user/eianzhang"
+    - "https://ro.pinterest.com/eianzhang"
+    - "https://medium.com/@eian.zhang"
+    - "https://www.youtube.com/channel/UCIxzY78nFPPGYOa4_pj-uHg"
+    - "https://www.quora.com/profile/Eian-Zhang-1"
+    - "https://www.goodreads.com/user/show/96155630-eianzhang"
