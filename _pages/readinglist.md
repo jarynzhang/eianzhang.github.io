@@ -1,3 +1,6 @@
+---
+permalink: /reading-list/
+---
 
 # Books
 
