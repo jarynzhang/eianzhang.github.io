@@ -13,4 +13,4 @@ permalink: /outside-web/
  * [Science, philosophy, society and the art](https://aeon.co) 沉稳克制
  * [Khan Academy](https://www.khanacademy.org) 比Coursera好用
  * [Merriam Webster](https://www.merriam-webster.com) 用起来最舒服的英英词典
- * [Standard Ebook](https://standardebooks.org) 把[Project Gutenberg](https://www.gutenberg.org) 古腾堡计划的免费电子书已高质量形式呈现
+ * [Standard Ebook](https://standardebooks.org) 把[Project Gutenberg](https://www.gutenberg.org) 古腾堡计划的免费电子书以高质量形式呈现
