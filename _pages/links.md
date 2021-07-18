@@ -1,5 +1,5 @@
 ---
-permalink: /outside-web/
+permalink: /outsideweb/
 ---
 # Useful links  
 

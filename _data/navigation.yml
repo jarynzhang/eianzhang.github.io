@@ -6,8 +6,8 @@ main:
   - title: "Tags"
     url: /tags/
   - title: "Reading List"
-    url: /reading-list/
+    url: /readinglist/
   - title: "Links"
-    url: /outside-web/
+    url: /outsideweb/
   - title: "About"
     url: /about/

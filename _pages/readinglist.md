@@ -1,5 +1,5 @@
 ---
-permalink: /reading-list/
+permalink: /readinglist/
 ---
 
 # Books
