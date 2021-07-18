@@ -1,15 +1,15 @@
 ---
 permalink: /about/
-title: "About me"
+title: "About Me"
 ---
 <br />
 <br />
-你好 Hello
-Salut Hallo
-こんにちは  안녕하세요<br />
+你好, Hello,
+Salut, Hallo,
+こんにちは, 안녕하세요<br />
 <br />
 <br />
-这是我的个人博客,Github太好玩了，慢慢研究中。
+这是我的个人博客,Github太好玩了,像在造房子，慢慢研究中。
 <br />
 <br />
 
@@ -21,11 +21,11 @@ Salut Hallo
 >> 本纪念碑文于仙女纪元半人马标准时间三万九千一百二十三年十七月三十八日，由莱斯特少尉巡航时发现。
 <br />
 <br />
->
+
 
 ## 莱斯特少尉巡航中
 
-### 巡航中无法回复
+### 巡航中无法回复issue
 
 #### 但是可以写邮件
 
