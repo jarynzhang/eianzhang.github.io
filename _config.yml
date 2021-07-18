@@ -119,6 +119,7 @@ analytics:
   google:
     tracking_id: "UA-202573609-1"
     anonymize_ip: false # default
+
 social:
   type: Person
   links:
@@ -130,3 +131,5 @@ social:
     - "https://www.youtube.com/channel/UCIxzY78nFPPGYOa4_pj-uHg"
     - "https://www.quora.com/profile/Eian-Zhang-1"
     - "https://www.goodreads.com/user/show/96155630-eianzhang"
+
+include: ["_pages"]
