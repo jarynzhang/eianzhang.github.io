@@ -1,6 +1,8 @@
 ---
 permalink: /readinglist/
+title: "Reading List"
 ---
+
 
 
 

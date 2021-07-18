@@ -1,7 +1,7 @@
 ---
 permalink: /outsideweb/
+title: "Useful Links"
 ---
-# Useful Links  
 
 
 **这是我收藏的我觉得很有意思、很好玩或者很有用的网络内容的链接。这些内容各异，包括但不仅限于博客、杂志、音乐、视频等，以下排名不分先后。(持续更新中)**  
