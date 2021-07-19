@@ -20,14 +20,11 @@ Salut, Hallo,
 >> 本纪念碑文于仙女纪元半人马标准时间三万九千一百二十三年十七月三十八日，由莱斯特少尉巡航时发现。
 
 <br />
-<br />
 
 ## 莱斯特少尉巡航中
 
-### 巡航中无法回复issue
+巡航中无法回复issue  
+但是可以写邮件  
+Email: unsplashking@outlook.com  
 
-#### 但是可以写邮件
-
-##### Email: unsplashking@outlook.com
-
-###### 这个*邮箱*有名字，叫*王不飘*
+这个*邮箱*有名字，叫*王不飘*
