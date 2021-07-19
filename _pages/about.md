@@ -3,6 +3,8 @@ permalink: /about/
 title: "About Me"
 ---
 <br />
+It is a truth universally acknowledged, that a single man in
+possession of some incredible ideas, must be in want of a BLOG.
 <br />
 你好, Hello,
 Salut, Hallo,
