@@ -4,12 +4,11 @@ title: "About Me"
 ---
 <br />
 It is a truth universally acknowledged, that a single man in
-possession of some incredible ideas, must be in want of a BLOG.
+possession of some incredible ideas, must be in want of a BLOG.    
 <br />
 你好, Hello,
 Salut, Hallo,
 こんにちは, 안녕하세요<br />
-<br />
 这是我的个人博客,Github太好玩了,像在造房子，慢慢研究中。
 <br />
 <br />
