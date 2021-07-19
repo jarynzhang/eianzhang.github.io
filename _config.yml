@@ -17,8 +17,8 @@ title: Eian Zhang
 subtitle: Just blog
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog with some strange ideas from a young man. The stars,
-  my destinayion.
+  It is a truth universally acknowledged, that a single man in
+  possession of some incredible ideas, must be in want of a BLOG.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -62,8 +62,7 @@ plugins:
 author:
   name   : "张宸锐"
   avatar : "/assets/images/mistme.png"
-  bio    : "It is a truth universally acknowledged, that a single man
-           in possession of some incredible ideas, must be in want of a BLOG."
+  bio    : "The stars, our destinayion."
   email: "eianzhang@outlook.com"
   links:
     - label: "Twitter"
