@@ -14,3 +14,5 @@ title: "Useful Links"
  * [Khan Academy](https://www.khanacademy.org) 比Coursera好用
  * [Merriam Webster](https://www.merriam-webster.com) 用起来最舒服的英英词典
  * [Standard Ebook](https://standardebooks.org) 把[Project Gutenberg](https://www.gutenberg.org) 古腾堡计划的免费电子书以高质量形式呈现
+ * [The Atlantic](https://www.theatlantic.com/) ~~理性中立，不偏不倚，难能可贵。除了川宝在位时，彼时小脾气有点暴躁，亦刚亦柔，善哉善哉~~
+ * [The New York Review of Books](https://www.nybooks.com) ~~最新的主页设计采用色彩鲜明的主题，在一众白底黑字中显得格外出尘，风格独特好看好看。只做review，不给opinion（隔壁纽约客：躺着也中枪）~~
