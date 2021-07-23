@@ -60,7 +60,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "张宸锐"
+  name   : "张毅安"
   avatar : "/assets/images/mistme.png"
   bio    : "The Stars Our Destination"
   email: "eianzhang@outlook.com"

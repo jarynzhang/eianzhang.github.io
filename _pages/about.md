@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About Me"
+title: "About Eian Zhang"
 ---
 <br />
 It is a truth universally acknowledged, that a single man in
@@ -9,7 +9,7 @@ possession of some incredible ideas, must be in want of a BLOG.
 你好, Hello,
 Salut, Hallo,
 こんにちは, 안녕하세요<br />
-这是我的个人博客,Github太好玩了,像在造房子，慢慢研究中。
+这是张毅安的个人博客，Github太好玩了，像在造房子，慢慢研究这门手艺活儿中。
 <br />
 <br />
 
