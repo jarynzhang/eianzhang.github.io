@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Eian Zhang
+title: Eian Zhang's Blog
 subtitle: Just blog
-name: 张毅安
+name: Eian Zhang
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Some incredible ideas must be written down.
@@ -60,7 +60,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "张毅安"
+  name   : "张宸锐"
   avatar : "/assets/images/mistme.png"
   bio    : "The Stars Our Destination"
   email: "eianzhang@outlook.com"
