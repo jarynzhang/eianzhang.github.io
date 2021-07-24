@@ -1,131 +1,65 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Site wide configuration
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Eian Zhang's Blog
-subtitle: Just blog
-name: Eian Zhang
-email:
-description:
-  “Some incredible ideas must be written down.”
-twitter_username: eianzhang
-github_username: eianzhang
-minimal_mistakes_skin: default
-search: false
+title:            Eian Zhang | Blog
+locale:           zh_CN
+url:              https://eianzhang.github.io
 
-# Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-paginate: 10 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-include:
-  - _pages
+# Jekyll configuration
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-og_image: /assets/images/siteiconlogo.png
-
-# Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
 
-author:
-  name   : "张宸锐"
-  avatar : "/assets/images/mistme.png"
-  bio    : "The Stars Our Destination"
-  email: "eianzhang@outlook.com"
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/eianzhang"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram-square"
-      url: "https://instagram.com/eianzhang/"
-    - label: "Chilli bean sauce"
-      icon: "fas fa-fw fa-external-link-square-alt"
-      url: "https://www.douban.com/people/leo_chang/"
-  location: "Somewhere on Earth"
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
 
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github-square"
-      url: "https://github.com/eianzhang"
 
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: true
-      share: true
-      related: true
-      show_date: false
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-
-analytics:
-  provider: "google-universal"
+# Site owner
+owner:
+  name: Eian Zhang
+  avatar: bio-photo.png
+  bio: "The Stars Our Destination"
+  email: unsplashking@outlook.com
+  disqus-shortname:
+  twitter: eianzhang
+  instagram: eianzhang
+  facebook:
   google:
-    tracking_id: "UA-202573609-1"
-    anonymize_ip: false # default
+    plus: #username
+    analytics: "google-universal"
+    verify: "UA-202573609-1"
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: eianzhang
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  xing: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr:
+  codepen: #username
 
-social:
-  type: Person
-  links:
-    - "https://twitter.com/eianzhang"
-    - "https://www.instagram.com/eianzhang/"
-    - "https://www.reddit.com/user/eianzhang"
-    - "https://ro.pinterest.com/eianzhang"
-    - "https://medium.com/@eian.zhang"
-    - "https://www.youtube.com/channel/UCIxzY78nFPPGYOa4_pj-uHg"
-    - "https://www.quora.com/profile/Eian-Zhang-1"
-    - "https://www.goodreads.com/user/show/96155630-eianzhang"
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
-include: ["_pages"]
+
+gems:
+  - jekyll-feed
