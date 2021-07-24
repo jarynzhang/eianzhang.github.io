@@ -1,8 +1,6 @@
 ---
 permalink: /about/
 title: "About"
-layout: about
-author_profile: true
 ---
 <br />
 It is a truth universally acknowledged, that a single man in

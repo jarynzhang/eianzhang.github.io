@@ -1,8 +1,6 @@
 ---
 permalink: /readinglist/
 title: "Reading List"
-layout: readinglist
-author_profile: true
 ---
 <br />
 一般都有在豆瓣标记书目的习惯，那边已经标记了很多本，这里只推荐我认为最好的（在我的定义里是六星书籍）。至于什么是六星书籍，只能靠感受～
