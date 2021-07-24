@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: Eian Zhang
 subtitle: Just blog
+name: 张毅安
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  It is a truth universally acknowledged, that a single man in
-  possession of some incredible ideas, must be in want of a BLOG.
+  Some incredible ideas must be written down.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
