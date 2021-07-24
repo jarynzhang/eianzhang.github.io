@@ -15,8 +15,6 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
-paginate: 10
-paginate_path: /page:num/
 
 kramdown:
   auto_ids: true
@@ -31,7 +29,6 @@ owner:
   name: Eian Zhang
   avatar: bio-photo.png
   bio: "The Stars Our Destination"
-  location: "Somewhere on Earth"
   email: unsplashking@outlook.com
   disqus-shortname:
   twitter: eianzhang
