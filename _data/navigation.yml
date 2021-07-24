@@ -3,11 +3,11 @@
 - title: About
   url: /about/
 
+- title: Blog Posts
+  url: /posts/
+
 - title: Reading List
-  url: /booklist/
+  url: /readinglist/
 
 - title: Links
   url: /links/
-
-- title: Blog Posts
-  url: /posts/
