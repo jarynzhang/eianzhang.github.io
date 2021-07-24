@@ -15,4 +15,4 @@ I should write more stuff down.  I'm getting to that age where it's easier to re
 _"Maybe a blog would help"_, I thought.  
 
 >It is a truth universally acknowledged, that a single man in possession of some incredible ideas, must be in want of a blog.  
-  < style="text-align:right">~~**Pride-and-Prejudice**~~</>                                   
+  <h6 style="text-align:right">~~Pride-and-Prejudice~~</h6>                                   
