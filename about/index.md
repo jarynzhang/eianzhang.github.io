@@ -4,6 +4,7 @@ title: About Me
 tags: [about]
 modified: 2021-07-24S20:27:07.573882+00:00
 comments: false
+share: false
 image:
   feature: galaxyandme.jpg
 ---
