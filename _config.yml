@@ -25,7 +25,7 @@ kramdown:
 
 
 # Site owner
-owner: Eian Zhang
+owner:
   name: 张宸锐
   avatar: bio-photo.png
   bio: "The Stars Our Destination"
