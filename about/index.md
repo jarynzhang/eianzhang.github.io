@@ -5,7 +5,7 @@ tags: [about]
 modified: 2021-07-24S20:27:07.573882+00:00
 comments: false
 image:
-  feature: sample-image-2.jpg
+  feature: galaxyandme.jpg
 ---
 
 I should write more stuff down.  I'm getting to that age where it's easier to remember your childhood holidays than it is to recall what you did last week.  
