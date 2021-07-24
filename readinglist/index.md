@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Reading List
-tags: [readinglist]
-modified: 2021-07-24S20:27:07.573882+00:00
+tags: [booklist]
 ---
 
 <br />
