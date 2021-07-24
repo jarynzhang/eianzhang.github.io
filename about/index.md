@@ -7,6 +7,7 @@ comments: false
 image:
   feature: galaxyandme.jpg
 ---
+我是张宸锐，我来自中国。
 
 I should write more stuff down.  I'm getting to that age where it's easier to remember your childhood holidays than it is to recall what you did last week.  
 
