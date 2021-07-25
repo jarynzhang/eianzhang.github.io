@@ -1,7 +1,7 @@
 ---
 layout: home
-excerpt: "A Jekyll theme for your blog."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "Ideas must be written down."
+tags: [eianzhang, blog, articles, books, posts]
 image:
   feature: header.jpg
 ---
