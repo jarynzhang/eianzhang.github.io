@@ -6,7 +6,7 @@ modified: 2021-07-21W18:27:07.573882+00:00
 comments: false
 share: false
 image:
-  feature: booktags.png
+  feature: booktags.jpeg
 ---
 <br />
 一般都有标记书目的习惯，已经标记了很多想读和读过的本，这里只推荐个人认为最好的（在我的定义里是六星书籍）。至于什么是六星书籍，只能靠感受～
