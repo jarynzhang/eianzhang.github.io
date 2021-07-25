@@ -29,7 +29,7 @@
 {% endif %}
 
 <div id="main" role="main">
-  <div class="article-author-top">
+  <div class="article-author-side">
     {% include _author-bio.html %}
   </div>
   <article class="post">
@@ -63,7 +63,7 @@
       <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
     {% endfor %}
     </ul>
-
+    
   </div><!-- /.related-articles -->
   {% endif %}
   <footer>
