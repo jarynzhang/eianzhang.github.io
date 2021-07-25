@@ -1,13 +1,4 @@
 # Site navigation links
 
-- title: About
-  url: /about/
-
 - title: Archive
   url: /posts/
-
-- title: Reading List
-  url: /books/
-
-- title: Links
-  url: /links/
