@@ -36,8 +36,12 @@ owner:
   facebook:
   google:
     plus: #username
-    analytics: "google-universal"
-    verify: "UA-202573609-1"
+    analytics:
+      provider: "google-universal"
+      google:
+        tracking_id: "UA-202573609-1"
+        anonymize_ip: false # default
+    verify:
     ad-client:
     ad-slot:
   bing-verify:
@@ -56,6 +60,7 @@ owner:
   weibo: #username
   flickr:
   codepen: #username
+  douban: leo_chang
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
