@@ -1,5 +1,5 @@
 <div class="social-share">
-  <font size=2 >Share On</font>
+  <font size=2 >Share on</font>
   <ul>
     <li>
       <a href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }}" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
@@ -8,10 +8,10 @@
       <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
     </li>
     <li>
-      <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url | url_encode }}" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}" class="linkedin" title:="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" </i><span> LinkedIn</span></a>
     </li>
     <li>
-      <a href="javascript:void(function(){var d=document,e=encodeURIComponent,s1=window.getSelection,s2=d.getSelection,s3=d.selection,s=s1?s1():s2?s2():s3?s3.createRange().text:'',r='https://www.douban.com/recommend/?url='+e(d.location.href)+'&title='+e(d.title)+'&sel='+e(s)+'&v=1',w=450,h=330,x=function(){if(!window.open(r,'douban','toolbar=0,resizable=1,scrollbars=yes,status=1,width='+w+',height='+h+',left='+(screen.width-w)/2+',top='+(screen.height-h)/2))location.href=r+'&r=1'};if(/Firefox/.test(navigator.userAgent)){setTimeout(x,0)}else{x()}})()"><img src="https://img3.doubanio.com/pics/fw2douban_s.png" alt="推荐到豆瓣" /></a>
+      <a href="https://www.douban.com/recommend/?url={{ site.url }}{{ page.url }}" class="douban" title:="Share on Douban"><i class="fa fa-delicious"></i><span> Douban</span></a>
     </li>
   </ul>
 </div><!-- /.social-share -->
