@@ -8,9 +8,8 @@ share: false
 image:
   feature: galaxyandme.jpg
 ---
-我是张宸锐，我来自中国。
+张宸锐
 
-暂时先这样，其它的没想好
 
 ### About Blog
 
