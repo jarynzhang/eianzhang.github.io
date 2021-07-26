@@ -48,6 +48,9 @@
           {% include _author-bio.html %}
         </div>
         <p class="byline">Published: <strong><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}</strong></p>
+        <div class="social-share">
+          {% if page.share != false %}{% include _social-share.html %}{% endif %}
+        </div>
       </footer>
     </div><!-- /.article-wrap -->
   {% if site.owner.disqus-shortname and page.comments == true %}
