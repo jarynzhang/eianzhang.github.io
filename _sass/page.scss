@@ -572,7 +572,7 @@ $button-size: 1.5rem;
   	list-style: none;
   }
   li {
-  	display: inline-block;
+  	display: block;
   }
   $social:
   (facebook, $facebook-color),
@@ -593,7 +593,7 @@ $button-size: 1.5rem;
     }
   }
   a {
-	  display: block;
+	  display: none;
 	  padding: 8px 20px;
 	  text-decoration: none !important;
 	  text-transform: uppercase;
@@ -609,7 +609,7 @@ $button-size: 1.5rem;
 	span {
 		display: none;
 		@media #{$medium} {
-			display: inline;
+			display: none;
 			padding-left: 5px;
 		}
 	}
