@@ -74,22 +74,19 @@ body {
 			border-bottom: 0 solid transparent;
 		}
 		@media #{$small} {
-			display: block;
-			list-style-type: none;
+			display: inline;
 			margin-right: 25px;
 			white-space: nowrap;
 			border-bottom: 0 solid transparent;
 		}
 		a {
 			display: block;
-			list-style-type: none;
 			padding: 10px 0;
 			decoration: none;
 			border-bottom: 0 solid transparent;
 			@include transition(all .2s);
 			@media #{$small} {
-				display: block;
-				list-style-type: none;
+				display: inline;
 				padding: 0;
 			}
 		}
