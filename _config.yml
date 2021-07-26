@@ -63,17 +63,6 @@ owner:
   douban: leo_chang
   location: Somewhere on Earth
 
-# Links to include in top navigation
-links:
-  - title: About
-    url: /about/
-  - title: Archive
-    url: /posts/
-  - title: Book List
-    url: /books/
-  - title: Links
-    url: /links/
-
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
