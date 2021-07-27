@@ -687,7 +687,7 @@ $button-size: 1.5rem;
   right: 2rem;
 }
 .back-top a {
-  background: rgba(0, 0, 0, 0.50);
+  background: rgba(0, 0, 0, 0.20);
   -webkit-border-radius: 3.5px;
   -moz-border-radius: 3.5px;
   -webkit-transition: 1s;
@@ -703,7 +703,7 @@ $button-size: 1.5rem;
   text-decoration: none;
 }
 .back-top a:hover {
-  background-color: #000000;
+  background-color: rgba(0, 0, 0, 0.50);
 }
 
 .back-top i {
