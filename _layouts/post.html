@@ -49,7 +49,7 @@
           {% include _author-bio.html %}
         </div>
         <div class="social-share">
-          {% include _social-share.html %}
+          {% if page.share != false %}{% include _social-share.html %}{% endif %}
         </div>
       </footer>
     </div><!-- /.article-wrap -->
