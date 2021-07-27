@@ -587,7 +587,7 @@ $button-size: 1.5rem;
   (twitter, $twitter-color),
   (vimeo, $vimeo-color),
   (youtube, $youtube-color);
-	(douban), $douban-color);
+	(douban, $douban-color);
   @each $socialnetwork, $color in $social {
     .#{$socialnetwork} {
       background: $color;
