@@ -42,17 +42,16 @@
         <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
         <p>{{ post.excerpt | strip_html | truncate: 500 }}</p>
       {% endif %}
+      <div class="paginator" role="pagination">
+        <span> ℘ </span>
+        <em>1</em>
+        <a href="/_posts/?page=2">2</a>
+        <a href="/_posts/?page=3">ໂ</a>
+      <div>
     </article>
     {% endfor %}
   </div><!-- /#index -->
 </div><!-- /#main -->
-
-<div class="paginator" role="pagination">
-  <span> ℘ </span>
-  <em>1</em>
-  <a href="/_posts/?page=2">2</a>
-  <a href="/_posts/?page=3">ໂ</a>
-<div>
 
 <div class="footer-wrap">
   <footer>
