@@ -720,7 +720,7 @@ $button-size: 1.5rem;
 
 /* paginator */
 .paginator {
-    padding: 10px 0;
+    padding: 5px 0;
     text-align: center;
     font-size: 12px;
     font-family: "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace
@@ -748,8 +748,8 @@ $button-size: 1.5rem;
 .paginator em {
     display: inline-block;
     font-style: normal;
-    background-color: #111;
-    color: #fff;
+    background-color: #DCDCDC;
+    color: #111;
     padding: 4px 6px;
     border-radius:6px
 }
