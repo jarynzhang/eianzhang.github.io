@@ -69,3 +69,15 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 gems:
   - jekyll-feed
+
+tag_archive:
+  type: liquid
+  path: /_posts.tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - tags
+#   layouts:
+#     tag: archive-taxonomy
+#   permalinks:
+#     tag: /_posts.tags/:name/
