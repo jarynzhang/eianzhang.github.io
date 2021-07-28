@@ -797,15 +797,15 @@ $button-size: 1.5rem;
       margin-left: 0;
 
       a {
-        border-top-left-radius: border-radius: 25;
-        border-bottom-left-radius: border-radius: 25;
+        border-top-left-radius: 25;
+        border-bottom-left-radius: 25;
       }
     }
 
     &:last-child {
       a {
-        border-top-right-radius: border-radius: 25;
-        border-bottom-right-radius: border-radius: 25;
+        border-top-right-radius: 25;
+        border-bottom-right-radius: 25;
       }
     }
   }
