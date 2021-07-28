@@ -34,7 +34,7 @@
   </div>
   <div id="index">
     <h3><a href="{{ site.url}}/posts/">Latest Articles</a></h3>
-    {% for post in site.posts limit:6 %}
+    {% for post in site.posts limit:5 %}
     <article>
       {% if post.link %}
         <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
@@ -47,17 +47,13 @@
   </div><!-- /#index -->
 </div><!-- /#main -->
 
+{% include paginator.html %}
+
 <div class="footer-wrap">
   <footer>
     {% include _footer.html %}
   </footer>
 </div><!-- /.footer-wrap -->
-
-<div class="back-top">
-  <a href="#" data-toggle="tooltip" data-placement="top" title="top">
-  <i class="fa fa-arrow-up" aria-hidden="true"></i>
-  </a>
-</div>
 
 {% include _scripts.html %}
 
