@@ -1,3 +1,23 @@
+{% if site.tag_archive.path %}
+  {% assign tags_sorted = page.tags | sort_natural %}
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags"></i><span> Tags:</span></strong>
+    <span itemprop="keywords">
+    {% for tag_word in tags_sorted %}
+      <a href="{{ tag_word | slugify | prepend: path_type | prepend: site.tag_archive.path | relative_url }}" class="page__taxonomy-item p-category" rel="tag">{{ tag_word }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
+    {% endfor %}
+    </span>
+  </p>
+{% endif %}
+
+{% case site.tag_archive.type %}
+  {% when "liquid" %}
+    {% assign path_type = "#" %}
+  {% when "jekyll-archives" %}
+    {% assign path_type = nil %}
+{% endcase %}
+
 {% assign tags_max = 0 %}
 {% for tag in site.tags %}
   {% if tag[1].size > tags_max %}
@@ -19,40 +39,18 @@
   {% endfor %}
 </ul>
 
-{% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-{% else %}
-  {% assign title = post.title %}
-{% endif %}
-
-{% case site.tag_archive.type %}
-  {% when "liquid" %}
-    {% assign path_type = "#" %}
-  {% when "jekyll-archives" %}
-    {% assign path_type = nil %}
-{% endcase %}
-
-{% if site.tag_archive.path %}
-  {% assign tags_sorted = page.tags | sort_natural %}
-
-  <p class="page__taxonomy">
-    <strong><i class="fas fa-fw fa-tags"></i><span> Tags:</span></strong>
-    <span itemprop="keywords">
-    {% for tag_word in tags_sorted %}
-      <a href="{{ tag_word | slugify | prepend: path_type | prepend: site.tag_archive.path | relative_url }}" class="page__taxonomy-item p-category" rel="tag">{{ tag_word }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
-    {% endfor %}
-    </span>
-  </p>
-{% endif %}
-
-<div class="{{ include.type | default: 'list' }}__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    <h4 class="archive__item-title no_toc" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
-    </h4>
-  </article>
-</div>
+{% assign entries_layout = page.entries_layout | default: 'grid' %}
+{% for i in (1..tags_max) reversed %}
+  {% for tag in _posts.tags %}
+    {% if tag[1].size == i %}
+      <section id="{{ tag[0] | slugify | downcase }}" class="taxonomy__section">
+        <h2 class="archive__subtitle">{{ tag[0] }}</h2>
+        <div class="entries-{{ entries_layout }}">
+          {% for post in tag.last %}
+            {% include _archive-single.html type=entries_layout %}
+          {% endfor %}
+        </div>
+      </section>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
