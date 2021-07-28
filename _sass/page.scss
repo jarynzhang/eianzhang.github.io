@@ -754,7 +754,7 @@ $button-size: 1.5rem;
     margin: 0;
     padding: 0;
     list-style-type: none;
-    font-family: $sans-serif;
+    font-family: $base-font;
   }
 
   li {
@@ -766,28 +766,28 @@ $button-size: 1.5rem;
       display: block;
       margin-bottom: 0.25em;
       padding: 0.5em 1em;
-      font-family: $sans-serif;
+      font-family: $base-font;
       font-size: 14px;
       font-weight: bold;
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: $muted-text-color;
+      color: RGB(203,203,203);
       border: 1px solid mix(#000, $border-color, 25%);
-      border-radius: 0;
+      border-radius: 25;
 
       &:hover {
-        color: $link-color-hover;
+        color: RGBA(0,0,0,0.6);
       }
 
       &.current,
       &.current.disabled {
         color: #fff;
-        background: $primary-color;
+        background: $bodycolor;
       }
 
       &.disabled {
-        color: rgba($muted-text-color, 0.5);
+        color: rgba($textcolor, 0.5);
         pointer-events: none;
         cursor: not-allowed;
       }
@@ -797,15 +797,15 @@ $button-size: 1.5rem;
       margin-left: 0;
 
       a {
-        border-top-left-radius: $border-radius;
-        border-bottom-left-radius: $border-radius;
+        border-top-left-radius: border-radius: 25;
+        border-bottom-left-radius: border-radius: 25;
       }
     }
 
     &:last-child {
       a {
-        border-top-right-radius: $border-radius;
-        border-bottom-right-radius: $border-radius;
+        border-top-right-radius: border-radius: 25;
+        border-bottom-right-radius: border-radius: 25;
       }
     }
   }
