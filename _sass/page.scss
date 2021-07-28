@@ -733,8 +733,8 @@ $button-size: 1.5rem;
 
 .paginator a {
     display: inline-block;
-    color: rgba(#111,0.2);
-    padding: 4px 8px;
+    color: #111;
+    padding: 4px 6px;
     border-radius: 6px;
     border: 1px solid #fff;
     text-decoration: none;
@@ -748,9 +748,9 @@ $button-size: 1.5rem;
 .paginator em {
     display: inline-block;
     font-style: normal;
-    background-color: rgba:(#111,0.2);
+    background-color: #111;
     color: #fff;
-    padding: 4px 8px;
+    padding: 4px 6px;
     border-radius:6px
 }
 
