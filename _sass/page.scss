@@ -718,42 +718,6 @@ $button-size: 1.5rem;
 }
 /*  Back Top Button  End */
 
-/* paginator */
-.paginator {
-    padding: 5px 0;
-    text-align: center;
-    font-size: 12px;
-    font-family: "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace
-}
-
-.paginator span {
-    color: rbga(#656565,0.3);
-    font-weight:100
-}
-
-.paginator a {
-    display: inline-block;
-    color: #111;
-    padding: 4px 6px;
-    border-radius: 6px;
-    border: 1px solid #fff;
-    text-decoration: none;
-    margin:2.5px auto
-}
-
-.paginator a:hover:not(.active) {
-    background-color:#e5e9f2
-}
-
-.paginator em {
-    display: inline-block;
-    font-style: normal;
-    background-color: #DCDCDC;
-    color: #111;
-    padding: 4px 6px;
-    border-radius:6px
-}
-
 /*
    Browser upgrade alert
    ========================================================================== */
