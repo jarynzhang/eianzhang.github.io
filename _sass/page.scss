@@ -18,7 +18,6 @@ body {
 	font-family: $heading-font;
 	font-weight: 700;
 	text-transform: uppercase;
-	@include clearfix;
 }
 
 /* Site name */
