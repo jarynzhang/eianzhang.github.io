@@ -73,7 +73,10 @@ body {
 		&:last-child {
 			border-bottom: 0 solid transparent;
 		}
-		@media #{$small} {									
+		@media #{$small} {
+			display: inline;
+			margin-right: 25px;
+			white-space: nowrap;
 			border-bottom: 0 solid transparent;
 		}
 		a {
@@ -83,6 +86,7 @@ body {
 			border-bottom: 0 solid transparent;
 			@include transition(all .2s);
 			@media #{$small} {
+				display: inline;
 				padding: 0;
 			}
 		}
@@ -169,7 +173,7 @@ $button-size: 1.5rem;
 	border: none;
 	cursor: pointer;
 	@media #{$small} {
-		display: inline-grid;
+		display: none;
 	}
 }
 .nav button {
