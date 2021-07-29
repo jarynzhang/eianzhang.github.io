@@ -34,11 +34,10 @@
           list-style-type: none;
       }
       li{
-          float: left;
+          display: inline;
       }
     </style>
   </head>
-
   <ul class="taxonomy__index">
     {% for i in (1..tags_max) reversed %}
       {% for tag in site.tags %}
