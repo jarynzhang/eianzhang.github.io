@@ -73,10 +73,7 @@ body {
 		&:last-child {
 			border-bottom: 0 solid transparent;
 		}
-		@media #{$small} {
-			display: inline;
-			margin-right: 25px;
-			white-space: nowrap;
+		@media #{$small} {									
 			border-bottom: 0 solid transparent;
 		}
 		a {
@@ -86,7 +83,6 @@ body {
 			border-bottom: 0 solid transparent;
 			@include transition(all .2s);
 			@media #{$small} {
-				display: inline;
 				padding: 0;
 			}
 		}
