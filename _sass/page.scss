@@ -71,7 +71,10 @@ body {
 		list-style-type: none;
 		margin-right: 10px;
 		border-bottom: 0 solid transparent;
-		@include font-rem(16);
+		a：active {
+                background-color: #bdbdbd;
+        }
+                @include font-rem(16);
 		@media #{$small} {
 			display: inline;
 			margin-right: 25px;
