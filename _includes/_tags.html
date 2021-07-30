@@ -1,10 +1,3 @@
-{% case site.tag_archive.type %}
-  {% when "liquid" %}
-    {% assign path_type = "#" %}
-  {% when "jekyll-archives" %}
-    {% assign path_type = nil %}
-{% endcase %}
-
 {% if site.tag_archive.path %}
   {% assign tags_sorted = page.tags | sort_natural %}
 
@@ -17,6 +10,13 @@
     </span>
   </p>
 {% endif %}
+
+{% case site.tag_archive.type %}
+  {% when "liquid" %}
+    {% assign path_type = "#" %}
+  {% when "jekyll-archives" %}
+    {% assign path_type = nil %}
+{% endcase %}
 
 {% assign tags_max = 0 %}
 {% for tag in site.tags %}
