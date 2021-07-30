@@ -29,7 +29,7 @@ body {
 	margin-bottom: 0.5em;
 	float: none;
 	display: block;
-        &：active {
+        a：active {
                 background-color: #bdbdbd;
         }
 	@include font-rem(16);
