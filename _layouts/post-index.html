@@ -50,7 +50,7 @@
         {% else %}
           <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
           <p>{{ post.excerpt | strip_html | truncate: 160 }}<br />
-             <strong class="pull-right"> <i class="fa fa-tags"></i>: {{ post.categories }} </strong>
+             <small class="pull-right"> <i class="fa fa-tag"></i>: {{ post.categories }} </small>
           </p>
         {% endif %}
       </article>
