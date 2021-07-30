@@ -29,9 +29,6 @@ body {
 	margin-bottom: 0.5em;
 	float: none;
 	display: block;
-        a：active {
-                background-color: #bdbdbd;
-        }
 	@include font-rem(16);
 	@media #{$small} {
 		@include grid(12,2);
@@ -71,9 +68,6 @@ body {
 		list-style-type: none;
 		margin-right: 10px;
 		border-bottom: 0 solid transparent;
-		&：active {
-                background-color: #bdbdbd;
-        }
                 @include font-rem(16);
 		@media #{$small} {
 			display: inline;
