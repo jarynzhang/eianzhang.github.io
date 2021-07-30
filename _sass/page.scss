@@ -153,6 +153,11 @@ body {
 		p+p {
 			text-indent: 0;
 		}
+		p+p+p {
+			@include font-rem(10)
+			color: #bdbdbd;
+			float: right;
+		}
 	}
 }
 
