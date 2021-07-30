@@ -71,7 +71,7 @@ body {
 		list-style-type: none;
 		margin-right: 10px;
 		border-bottom: 0 solid transparent;
-		a：active {
+		&：active {
                 background-color: #bdbdbd;
         }
                 @include font-rem(16);
