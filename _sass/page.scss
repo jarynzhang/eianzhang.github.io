@@ -29,6 +29,9 @@ body {
 	margin-bottom: 0.5em;
 	float: none;
 	display: block;
+        &：active {
+                background-color: #bdbdbd;
+        }
 	@include font-rem(16);
 	@media #{$small} {
 		@include grid(12,2);
