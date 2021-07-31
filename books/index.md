@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: <style= "display:none;"> Favourite Books </style>
 tags: [books]
 modified: 2021-07-21W18:27:07.573882+00:00
 comments: false
