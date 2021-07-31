@@ -1,9 +1,9 @@
 <div class="navigation-wrapper">
 	<div class="site-name">
-		<a href="{{ site.url }}/" class="active">{{ site.title }}</a>
+		<a href="{{ site.url }}/">{{ site.title }}</a>
 	</div><!-- /.site-name -->
 	<div class="top-navigation">
-		<nav role="navigation">
+		<nav role="navigation" class="active">
 		    <ul>
 		        {% for link in site.data.navigation %}
 				    {% if link.url contains 'http' %}
