@@ -593,7 +593,10 @@ body {
 
 /* Link button color */
 .active {
-    background-color: #bdbdbd;
+    &:active {
+        background-color: #bdbdbd;
+        border-radius: 35%;
+    }
 }
 
 /*
