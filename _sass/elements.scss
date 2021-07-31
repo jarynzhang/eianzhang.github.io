@@ -151,6 +151,32 @@ svg:not(:root) {
   }
 }
 
+.btn-active {
+  margin-bottom: 15px;
+  padding: 8px 10px;
+  bottom-radius: 25%;
+  @include font-rem(14);
+  font-family: $heading-font;
+  font-weight: 700;
+  background-color: $white;
+  color: $textcolor;
+  border-width: 1px !important;
+  border-style: solid !important;
+  border-color: $primary;
+  @include rounded(3px);
+  &:visited {
+    color: #343434;
+  }
+  &:hover {
+    background-color: $white;
+    color: $primary;
+  }
+  &:active {
+    background-color: &bdbdbd;
+    color: $primary;
+  }
+}
+
 /*
    Wells
    ========================================================================== */
