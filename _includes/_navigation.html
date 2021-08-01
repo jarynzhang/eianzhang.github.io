@@ -16,11 +16,3 @@
 		</nav>
 	</div><!-- /.top-navigation -->
 </div><!-- /.navigation-wrapper -->
-
-{% for node in site.pages %}
-	 {% if page.url == link.url %}
-		 <li class="focus"><a href="{{ domain }}{{link.url}}" class="focus">{{link.title}}</a></li>
-	 {% else %}
-		 <li><a href="{{ domain }}{{link.url}}">{{link.title}}</a></li>
-	 {% endif %}
- {% endfor %}
