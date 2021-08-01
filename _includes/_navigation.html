@@ -1,21 +1,16 @@
 <div class="navigation-wrapper">
 	<div class="site-name">
 		<a href="{{ site.url }}/">{{ site.title }}</a>
-		  {% if page.url == site.url %}
-		  	{% assign class = 'active' %}
-	  	{% elsif page.url != '/' and page.url contains link.url %}
-	  		{% assign class = 'active parent' %}
-	  	{% endif %}
 	</div><!-- /.site-name -->
 	<div class="top-navigation">
 		<nav role="navigation">
 		    <ul>
 					{% for link in site.data.navigation %}
-					  {% assign class = nil %}
+					  {% assign focus = nil %}
 					  {% if page.url == link.url %}
-					    {% assign class = 'active' %}
+					    {% assign class = 'focus' %}
 						{% elsif page.url != '/' and page.url contains link.url %}
-						  {% assign class = 'active parent' %}
+						  {% assign class = 'active focus' %}
 					  {% endif %}
 				    <li><a href="{{ domain }}{{ link.url }}" class="{{class}}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
 				  {% endfor %}
