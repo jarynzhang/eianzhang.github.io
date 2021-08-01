@@ -6,15 +6,21 @@
 		<nav role="navigation">
 		    <ul>
 					{% for link in site.data.navigation %}
-					  {% assign focus = nil %}
 					  {% if page.url == link.url %}
-					    {% assign class = 'focus' %}
-						{% elsif page.url != '/' and page.url contains link.url %}
-						  {% assign class = 'active focus' %}
-					  {% endif %}
-				    <li><a href="{{ domain }}{{ link.url }}" class="{{class}}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+					    <li class="focus"><a href="{{ domain }}{{link.url}}" class="focus">{{link.title}}</a></li>
+				    {% else %}
+					    <li><a href="{{ domain }}{{link.url}}">{{link.title}}</a></li>
+				    {% endif %}
 				  {% endfor %}
 		    </ul>
 		</nav>
 	</div><!-- /.top-navigation -->
 </div><!-- /.navigation-wrapper -->
+
+{% for node in site.pages %}
+	 {% if page.url == link.url %}
+		 <li class="focus"><a href="{{ domain }}{{link.url}}" class="focus">{{link.title}}</a></li>
+	 {% else %}
+		 <li><a href="{{ domain }}{{link.url}}">{{link.title}}</a></li>
+	 {% endif %}
+ {% endfor %}
