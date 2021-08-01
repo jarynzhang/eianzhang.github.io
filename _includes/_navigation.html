@@ -9,9 +9,11 @@
 					  {% assign class = nil %}
 					  {% if page.url == link.url %}
 					    {% assign class = 'active' %}
+						{% elsif page.url != '/' and page.url contains link.url %}
+						  {% assign class = 'active parent' %}
 					  {% endif %}
 				    <li><a href="{{ domain }}{{ link.url }}" class="{{class}}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-				{% endfor %}
+				  {% endfor %}
 		    </ul>
 		</nav>
 	</div><!-- /.top-navigation -->
