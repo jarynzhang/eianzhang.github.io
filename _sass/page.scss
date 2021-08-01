@@ -617,7 +617,7 @@ body {
 latter added
     ======================================================================    */
 
-.focus:focus {
+:target {
 	color: #fff;
 	background-color: #000000;
 }

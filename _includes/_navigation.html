@@ -7,7 +7,7 @@
 		  <ul>
 			  {% for link in site.data.navigation %}
 			  {% if page.url == link.url %}
-					<li><a href="{{ domain }}{{link.url}}" class="focus">{{link.title}}</a></li>
+					<li><a href="{{ domain }}{{link.url}}" id="{{link.title}}" class="target">{{link.title}}</a></li>
 				{% else %}
 					<li><a href="{{ domain }}{{link.url}}">{{link.title}}</a></li>
 				{% endif %}
