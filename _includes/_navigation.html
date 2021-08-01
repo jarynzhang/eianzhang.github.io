@@ -1,6 +1,11 @@
 <div class="navigation-wrapper">
 	<div class="site-name">
 		<a href="{{ site.url }}/">{{ site.title }}</a>
+		  {% if page.url == site.url %}
+		  	{% assign class = 'active' %}
+	  	{% elsif page.url != '/' and page.url contains link.url %}
+	  		{% assign class = 'active parent' %}
+	  	{% endif %}
 	</div><!-- /.site-name -->
 	<div class="top-navigation">
 		<nav role="navigation">
