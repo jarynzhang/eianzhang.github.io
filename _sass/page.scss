@@ -89,11 +89,6 @@ body {
 	}
 }
 
-.top-navigation a:active {
-		background-color: #000000;
-		color: #fff;
-}
-
 /* Main content */
 #main {
 	counter-reset: captions;
@@ -617,6 +612,18 @@ body {
 	}
 }
 
+
+/*
+latter added
+    ======================================================================    */
+
+.active: {
+	color: #fff
+	background-color: #000000
+}
+
+
+}
 /*
    Google search form
    ========================================================================== */
