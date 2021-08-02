@@ -35,6 +35,9 @@ h6 {
 a {
 	text-decoration: none;
 	color: $link-color;
+	&:current {
+		color: #9A1B67
+	}
 	&:visited {
 		color: $linkcolorvisited;
 	}
