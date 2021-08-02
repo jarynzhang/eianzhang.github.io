@@ -56,7 +56,7 @@ $douban-color       : #4e9448;
 $linkcolor 		    : #343434;
 $link-color       : $linkcolor;
 $linkcolorhover 	: darken($linkcolor, 10);
-$linkcolorvisited : lighten($linkcolorhover, 20);
+$linkcolorvisited : #9A1B67;
 $linkcolorfocus 	: darken($linkcolorvisited, 10);
 
 /*
