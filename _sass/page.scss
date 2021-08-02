@@ -67,7 +67,6 @@ body {
 		display: inline;
 		list-style-type: none;
 		margin-right: 10px;
-		white-space: nowrap;
 		border-bottom: 0 solid transparent;
     @include font-rem(16);
 		@media #{$small} {
@@ -619,8 +618,7 @@ latter added
     ======================================================================    */
 
 .current {
-	color: #000000;
-	background-color: #bdbdbd;
+	color: #9A1B67;
 }
 /*
    Google search form
