@@ -86,9 +86,6 @@ body {
 				padding: 0;
 			}
 		}
-		a:visited {
-			color: #9A1B67;
-		}
 	}
 }
 
@@ -621,7 +618,7 @@ latter added
     ======================================================================    */
 
 .current {
-	color: #9A1B67;
+	$textcolor: #9A1B67;
 }
 /*
    Google search form
