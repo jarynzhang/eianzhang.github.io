@@ -68,6 +68,7 @@ body {
 		list-style-type: none;
 		margin-right: 10px;
 		border-bottom: 0 solid transparent;
+		text-align: center;
     @include font-rem(16);
 		@media #{$small} {
 			display: inline;
@@ -86,6 +87,9 @@ body {
 				padding: 0;
 			}
 		}
+	}
+	li span {
+		background-color: $bodycolor;
 	}
 }
 
