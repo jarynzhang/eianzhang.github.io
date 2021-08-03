@@ -11,7 +11,7 @@ image:
 张宸锐
 
 
-I should write more stuff down.  I'm getting to that age where it's easier to remember your childhood holidays than it is to recall what you did last week.  
+I should write more stuff down.  I'm getting to that place where it's easier to remember your childhood holidays than it is to recall what you did last week.  
 
 _"Maybe a blog would help"_, I thought.  
 
