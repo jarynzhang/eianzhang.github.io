@@ -70,8 +70,6 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 gems:
   - jekyll-feed
 
-og_image: /assets/images/site-logo.png
-
 category_archive:
   type: liquid
   path: /_posts.categories/
