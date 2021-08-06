@@ -39,7 +39,7 @@ owner:
     analytics:
       provider: "google-universal"
       google:
-        tracking_id: "UA-202573609-1"
+        tracking_id: "UA-204295496-1"
         anonymize_ip: false # default
     verify:
     ad-client:
