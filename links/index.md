@@ -1,6 +1,8 @@
 ---
 layout: page
-title:
+title: Links {
+  visibility: hidden
+}
 tags: [links]
 modified: 2021-07-22T20:27:07.573882+00:00
 comments: false
