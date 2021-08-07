@@ -8,7 +8,7 @@ share: false
 image:
   feature: aboutmes.jpg
 ---
-张宸锐
+张宸锐，来自中国，世界公民
 
 
 I should write more stuff down.  I'm getting to that place where it's easier to remember your childhood holidays than it is to recall what you did last week.  
