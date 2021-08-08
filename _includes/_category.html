@@ -5,7 +5,6 @@
     {% assign path_type = nil %}
 {% endcase %}
 
-<i class="fa fa-fw fa-tags"></i>:
 {% if site.tag_archive.path %}
   {% assign tags_sorted = page.tags | sort_natural %}
   <p class="page__taxonomy">
@@ -39,6 +38,7 @@
     {% for tag in site.tags %}
       {% if tag[1].size == i %}
         <li >
+          <i class="fa fa-fw fa-tags"></i>:
           <a href="#{{ tag[0] | slugify }}">
             <small>{{ tag[0] }} <span class="taxonomy__count">{{ i }}</span></small>
           </a>
