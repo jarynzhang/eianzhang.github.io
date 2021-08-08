@@ -34,11 +34,11 @@
 </head>
 
 <ul class="taxonomy__index" style="list-style-type:none">
+  <i class="fa fa-fw fa-tags"></i>:
   {% for i in (1..tags_max) reversed %}
     {% for tag in site.tags %}
       {% if tag[1].size == i %}
         <li >
-          <i class="fa fa-fw fa-tags"></i>:
           <a href="#{{ tag[0] | slugify }}">
             <small>{{ tag[0] }} <span class="taxonomy__count">{{ i }}</span></small>
           </a>
