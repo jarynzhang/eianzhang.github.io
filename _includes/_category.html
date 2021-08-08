@@ -8,7 +8,7 @@
 {% if site.tag_archive.path %}
   {% assign tags_sorted = page.tags | sort_natural %}
   <p class="page__taxonomy">
-    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i></strong>
+    <i class="fas fa-fw fa-tags" aria-hidden="true"></i>:
     <span itemprop="keywords">
     {% for tag_word in tags_sorted %}
       <a href="{{ tag_word | slugify | prepend: path_type | prepend: site.tag_archive.path | relative_url }}" class="page__taxonomy-item p-category" rel="tag">{{ tag_word }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
@@ -24,15 +24,16 @@
   {% endif %}
 {% endfor %}
 
-<ul class="taxonomy__index"> {
-  display: inline;
-  list-style: none;
-  float: left;
-}
+<ul class="taxonomy__index">
   {% for i in (1..tags_max) reversed %}
     {% for tag in site.tags %}
       {% if tag[1].size == i %}
-        <li>
+        <li> {
+          display: inline;
+          list-style-type: none;
+          float: left;
+          margin-left: 10px;
+        }
           <a href="#{{ tag[0] | slugify }}">
             <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ i }}</span>
           </a>
