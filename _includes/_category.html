@@ -26,10 +26,7 @@
 
 <head>
   <style>
-    ul {
-      list-style-type: none;
-
-    }
+    ul 
     li {
         display: inline;
         margin-right: 10px;
@@ -37,7 +34,7 @@
   </style>
 </head>
 
-<ul class="taxonomy__index" >
+<ul class="taxonomy__index" style="list-style-type:none">
   {% for i in (1..tags_max) reversed %}
     {% for tag in site.tags %}
       {% if tag[1].size == i %}
