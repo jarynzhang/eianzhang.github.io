@@ -1,6 +1,6 @@
 ---
 layout: home
-excerpt: "Ideas must be written down, only words can live forever."
+excerpt: "Just a blog"
 tags: [eianzhang, blog, articles, books, coder]
 image:
   feature: header.jpg
