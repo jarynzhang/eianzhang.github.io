@@ -33,7 +33,7 @@
     {% include _author-bio.html %}
   </div>
   <div id="index">
-    <h3>Featured Articles <small class="pull-right"><a href="{{ site.url}}/posts/">ALL</a></small></h3>
+    <h3>Featured Articles <span class="pull-right"><a href="{{ site.url}}/posts/">ALL</a></span></h3>
     {% for post in site.categories.featured limit:8 %}
     <article>
       {% if post.link %}
