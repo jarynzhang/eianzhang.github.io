@@ -73,19 +73,6 @@ gems:
 category_archive:
   type: liquid
   path: /_posts.categories/
-
-<p>Posts in dir-a:</p>
-
-<ul>
-    {% for post in site.posts %}
-        {% assign first_dir = post.path | remove_first: "_posts/" | split: "/" | first %}
-        {% if first_dir == 'dir-a' %}
-            <li>
-                <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-            </li>
-        {% endif %}
-    {% endfor %}
-</ul>
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
