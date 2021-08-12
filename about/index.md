@@ -10,6 +10,7 @@ image:
 ---
 张宸锐
 
+Je est un autre et je suis moi.
 
 I should write more stuff down.  I'm getting to that place where it's easier to remember your childhood holidays than it is to recall what you did last week.  
 
