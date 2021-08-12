@@ -622,12 +622,9 @@ latter added
 }
 
 .catebox {
-	@include clearfix;
 	display: inline-block;
+	margin-left: 3px;
 	padding-left: 3px;
-	  li {
-			list-style-type: none;
-		}
 }
 
 
