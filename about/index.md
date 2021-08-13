@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 关于张宸锐
 tags: [about]
 modified: 2021-07-24S20:27:07.573882+00:00
 comments: false
@@ -8,7 +8,6 @@ share: false
 image:
   feature: aboutmes.jpg
 ---
-张宸锐
 
 Je est un autre et je suis moi.
 
