@@ -468,7 +468,7 @@ body {
   }
   a {
 	  display: block;
-	  padding: 8px 20px;
+	  padding: 4px 10px;
 	  text-decoration: none !important;
 	  text-transform: uppercase;
 	  @include font-rem(14);
@@ -484,7 +484,7 @@ body {
 		display: none;
 		@media #{$medium} {
 			display: inline;
-			padding-left: 5px;
+			padding-left: 2px;
 		}
 	}
 	h4 {
