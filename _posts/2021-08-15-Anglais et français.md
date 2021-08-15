@@ -2,7 +2,7 @@
 title: "Anglais et français"
 last_modified_at:
 categories:
-   - français	
+   - français
 tags:
    - français
 excerpt: "It may not suit to be cited as a reference basis for French learning, cause I learn it by standing on another language's shoulders. But at least for me, it is a feasible and comfortable way. I want to write it here in case of any possible usefulness."
@@ -19,7 +19,7 @@ Before my actual engagement in French learning, I worried a lot. I would meet ob
 
 
 
-The lesson is the same as I learned in writing. Once you make up your mind to do something or have inclinations to carry out a project planned long ago. The first thing we should do is to get rid of hesitations as soon as possible. By what? Just do it. If a method is needed to improve your success rate, it must be setting a deadline. As Luxun said, DDL is the primarily productive force.
+The lesson is the same as I learned in writing. Once you make up your mind to do something or have inclinations to carry out a project planned long ago. The first thing we should do is to get rid of hesitations as soon as possible. By what? Just do it. If a method is needed to improve your success rate, it must be setting a deadline. As Lu Xun said, DDL is the primarily productive force.
 
 
 
@@ -31,27 +31,8 @@ If so, grammar isn't that important in the learning circle. As a native Chinese 
 
 
 
-I don't think so, though I can not give spotless evidence for this assertion. 
+I don't think so, though I can not give spotless evidence for this assertion.
 
 
 
 To be continued.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
