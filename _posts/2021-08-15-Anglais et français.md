@@ -11,19 +11,21 @@ excerpt: "It may not suit to be cited as a reference basis for French learning, 
 
 
 
+
+
 It may not suit to be cited as a reference basis for French learning, cause I learn it by standing on another language's shoulders. But at least for me, it is a feasible and comfortable way. I want to write it here in case of any possible usefulness.
 
 
 
-Before my actual engagement in French learning, I worried a lot. I would meet obstacles never faced as a guy who knew only English and Chinese. I need to tell different properties between féminin and masculin. The complexity of numbers should also be a big problem. Placing my tongue at odd positions was another challenge that frightened me. However, these anxieties appeared only before my actual involvement in practice. Once practicing, all the unrelated emotions went away.
+Before my actual engagement in French learning, I worried a lot. I would meet obstacles never faced as a guy who knew only English and Chinese. I need to tell different properties between féminin and masculin. The complexity of numbers would also be a big problem. Placing my tongue at odd positions was another great challenge that frightened me. However, these anxieties appeared only before my actual involvement in practice. Once practicing, all the unrelated emotions went away.
 
 
 
-The lesson is the same as I learned in writing. Once you make up your mind to do something or have inclinations to carry out a project planned long ago. The first thing we should do is to get rid of hesitations as soon as possible. By what? Just do it. If a method is needed to improve your success rate, it must be setting a deadline. As Lu Xun said, DDL is the primarily productive force.
+The lesson is the same as I learned in writing. Once you make up your mind to do something or have inclinations to carry out a project planned long long long ago. The first thing we should do is to get rid of hesitations as soon as possible. By what? Just do it. If a method is needed to ensure your success, it must be setting a deadline. As great litterateur Lu Xun[鲁迅] said, DDL is the primarily productive force.
 
 
 
-When it comes to language learning, we should firstly know what a language means. It is not a target, an achievement, a milestone in life, or a way of self-proving. Language is the apprehension about the world from a group of people. Accumulated from ancient times, the language is developing all the time with the ones using it. The language is not a dead thing or just a still mixture of letters or symbols. Rather, it lives a vivid life in intimate connections with the outer world. If made a metaphor, the language is like a human. It is you, and it is me.
+When it comes to language learning, we ought to know what a language is. It is not a target, an achievement, a milestone in life, or a way of self-proving. Language is the apprehension about the world from a group of people. Originated from ancient times, the language is developing all the time with the ones using it. The language is not a dead thing or just a still mixture of letters or symbols. Rather, it lives a vivid life in intimate connections with the outer world. If made a metaphor, the language is like a human. It is you, and it is me.
 
 
 
@@ -31,8 +33,51 @@ If so, grammar isn't that important in the learning circle. As a native Chinese 
 
 
 
-I don't think so, though I can not give spotless evidence for this assertion.
+I don't think so, though I can not give spotless evidence for this assertion. 
+
+
+
+Grammar is the regularity people summarized from the usage of the language. It is supposed to be authoritative when citations are needed. But unexpected scattered incidents make this cognition doubtful, it reminds us the grammar is not the language itself. Grammar is one of the many bridges between us and the languages. To get the nature of linguistics, there exist other ways. Language is a way of understanding the world and ourselves. It is not a structure or a framework of something, but a biological creature can grow and decay away, would be strong and become weak, might die and vanish from the face of the earth as many languages did. 
+
+
+
+Then how can we develop a closer relationship with this gorgeous being?
+
+
+
+Time or times is not the necessity for familiarity. Some good learners show quicker understandability with limited practice. However, it has nothing to do with wisdom or genes, but results of excellent interactions between themselves and the things they speak out. When saw a 
+
+
+
+---
 
 
 
 To be continued.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
