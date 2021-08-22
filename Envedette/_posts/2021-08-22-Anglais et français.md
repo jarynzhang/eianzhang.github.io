@@ -2,7 +2,7 @@
 title: "Anglais et français"
 last_modified_at:
 categories:
-   - français	
+   - français
 tags:
    - français
 excerpt: "It may not suit to be cited as a reference basis for French learning, cause I learn it by standing on another language's shoulders. But at least for me, it is a feasible and comfortable way. I want to write it here in case of any possible usefulness."
@@ -16,7 +16,7 @@ It may not suit to be cited as a reference basis for French learning, cause I le
 
 
 
-Before my actual engagement in French learning, I worried a lot. I would meet obstacles never faced as a guy who knew only English and Chinese. I need to tell different properties between féminin and masculin. The complexity of numbers would also be a big problem. Placing my tongue at odd positions was another great challenge that frightened me. However, these anxieties appeared only before my actual involvement in practice. Once practicing, all the unrelated emotions went away.
+Before my actual engagement in French learning, I worried a lot. I would meet obstacles never faced as a guy who knew only English and Chinese. I needed to tell different properties between féminin and masculin. The complexity of numbers would also be a big problem. Placing my tongue at odd positions was another great challenge that frightened me. However, these anxieties appeared only before my actual involvement in practice. Once practicing, all the unrelated emotions went away.
 
 
 
@@ -32,7 +32,7 @@ If so, grammar isn't that important in the learning circle. As a native Chinese 
 
 
 
-I don't think so, though I can not give spotless evidence for this assertion. 
+I don't think so, though I can not give spotless evidence for this assertion.
 
 
 
@@ -44,11 +44,11 @@ Then how can we develop a closer relationship with this gorgeous being?
 
 
 
-Time or times is not the necessity for familiarity. Some good learners show quicker understandability with limited practice. However, it has nothing to do with wisdom or genes, but results of excellent interactions between themselves and things they speak out. They can connect things newly learned with information that already existed in their knowledge system. This kind of learning is their default mode. Most of us, however, getting confused and lost while facing unknown situations. We spend too much time calculating the risk, therefore lose the instant opportunity which is hard to grasp even when we are staring at it. 
+Time or times is not the necessity for familiarity. Some good learners show quicker understandability with limited practice. However, it has nothing to do with wisdom or genes, but results of excellent interactions between themselves and things they speak out. They can connect things newly learned with information that already existed in their knowledge system. This kind of learning is their default mode. Most of us, however, getting confused and lost while facing unknown situations. We spend too much time calculating the risk, therefore lose the instant opportunity which is hard to grasp even when we are staring at it.
 
 
 
-The second key point comes out as letting the unknown horrors alone there scratching or screaming, we noticed, yet still do the right things -- connect that new guy with our old pals, as if horrors around us were our companions. 
+The second key point comes out as letting the unknown horrors alone there scratching or screaming, we noticed, yet still do the right things -- connect that new guy with our old pals, as if horrors around us were our companions.
 
 
 
@@ -56,7 +56,7 @@ Aren't they?
 
 
 
-The traditional learning method stresses the mastery of grammar and vocabulary. It believes the development from abstraction to concretization, of course, is logical in logic. However, language lives a vivid life in the same world as we are in, but logic can not explain our luxuriant life. Our current logic may be right somehow, but it has its limits. 
+The traditional learning method stresses the mastery of grammar and vocabulary. It believes the development from abstraction to concretization, of course, is logical in logic. However, language lives a vivid life in the same world as we are in, but logic can not explain our luxuriant life. Our current logic may be right somehow, but it has its limits.
 
 
 
@@ -64,7 +64,7 @@ Because of this cognition, unknown new words or sentences perform as giant obsta
 
 
 
-Desperation occurs when people are in panic and losing their confidence in solving problems all by themselves. Dictionary is the last straw learners can grasp. It's not the redemption nevertheless. Next time facing the same question, learners would again get stuck there, throw all their creativities away and hold their heads wondering why they can not convert to a dictionary or textbook. 
+Desperation occurs when people are in panic and losing their confidence in solving problems all by themselves. Dictionary is the last straw learners can grasp. It's not the redemption nevertheless. Next time facing the same question, learners would again get stuck there, throw all their creativities away and hold their heads wondering why they can not convert to a dictionary or textbook.
 
 
 
@@ -80,7 +80,7 @@ The only reason that makes this method unattractive is horror, or rather people'
 
 
 
-In this way of learning, the language is alive as we are. We use language to interact with our surroundings, make it a tool to apprehend the world, accept our ignorance, observe our failures, be familiar with what is behind them, and make language our friend. Don't retreat. Whatever pushes on you, you need to pull back. The most important: accept your stupidness and still be open to anything that hurt you and help you. 
+In this way of learning, the language is alive as we are. We use language to interact with our surroundings, make it a tool to apprehend the world, accept our ignorance, observe our failures, be familiar with what is behind them, and make language our friend. Don't retreat. Whatever pushes on you, you need to pull back. The most important: accept your stupidness and still be open to anything that hurt you and help you.
 
 
 
