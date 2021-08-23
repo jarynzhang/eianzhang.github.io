@@ -92,3 +92,7 @@ To summerise what I have said:
 - Understand its way of thinking and how it gets along with its surroundings, what, why, when, where, who, how
 - Observing yourself, be affected by the thing, and affect back
 - **Repeat the loop**
+
+<br>
+<br>
+<br>
