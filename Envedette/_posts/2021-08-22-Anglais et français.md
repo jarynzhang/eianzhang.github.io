@@ -20,7 +20,7 @@ Before my actual engagement in French learning, I worried a lot. I would meet ob
 
 
 
-The lesson is the same as I learned in writing. Once you make up your mind to do something or have inclinations to carry out a project planned long long long ago. The first thing we should do is to get rid of hesitations as soon as possible. By what? Just do it. If a method is needed to ensure your success, it must be setting a deadline. As great litterateur Lu Xun[鲁迅] said, DDL is the primarily productive force.
+The lesson is the same as I learned in writing. Once you make up your mind to do something or have inclinations to carry out a project planned long long long ago. The first thing we should do is to get rid of hesitations as soon as possible. By what? **Just do it**. If a method is needed to ensure your success, it must be setting a deadline. As great litterateur Lu Xun[鲁迅] said, DDL is the primarily productive force.
 
 
 
@@ -76,7 +76,7 @@ Since it seems to be a practical way, why not try it at the beginning?
 
 
 
-The only reason that makes this method unattractive is horror, or rather people's response to facing the unknown. The horror drives people away from the beginning, it keeps creating fear and panic in the meantime if people dared to start. Supposing someone wanted to try this method, he should not look up words or grammar strange to him. Let's think about what a baby does in language learning. The baby didn't know grammar and had little Knowledge in vocabulary, but they will become fluent speakers inevitably. They are curious and have no fear of facing any challenge, failures never stop them, cause they treat failures as the start of the next step. An adult might hesitate sometimes, but babies, they march forward courageously, they can begin at any time.
+The only reason that makes this method unattractive is horror, or rather people's response to facing the unknown. The horror drives people away from the beginning, it keeps creating fear and panic in the meantime if people dared to start. Supposing someone wanted to try this method, he should not look up words or grammar strange to him. Let's think about what a baby does in language learning. The baby didn't know grammar and had little Knowledge in vocabulary, but they will become fluent speakers inevitably. They are curious and have no fear of facing any challenge, failures never stop them, cause they treat failures as the start of the next step[and also because they are too young to know failures]. An adult might hesitate sometimes, but babies, they march forward courageously, they can begin at any time.
 
 
 
