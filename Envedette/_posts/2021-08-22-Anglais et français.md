@@ -6,8 +6,6 @@ categories:
 tags:
    - français
 excerpt: "It may not suit to be cited as a reference basis for French learning, cause I learn it by standing on another language's shoulders. But at least for me, it is a feasible and comfortable way. I want to write it here in case of any possible usefulness."
-
-
 ---
 
 
